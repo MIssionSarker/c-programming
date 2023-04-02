@@ -33,7 +33,8 @@ int main()
     return 0;
 }
 // int-integer(punno sonkha) %d
-// float-vognakso %f
+// float-vognakso %f 4 bits
+// double- long float 8 bits
 // character- char %c 
 // bool - true or false %d
 // 0.2 = 2 digit print 0.3=3 digit print 
