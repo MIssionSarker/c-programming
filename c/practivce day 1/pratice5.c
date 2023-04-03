@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main(){
     int budget;
     scanf("%d",&budget);
     if(budget>=10000){
@@ -13,7 +12,8 @@ int main()
         printf("Levis Bag\n");
     }
     else{
-        printf("New Market\n");
+        printf("Something from New Market\n");
     }
     return 0;
 }
+
