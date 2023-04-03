@@ -1,9 +1,1 @@
-The sum is:50
-The sub is:30
-The multi is:400
-The dif is:0.25
-The mod is:0
-The sum is:50
-The sub is:-30
-The multi is:400
-The dif is:0.25
+Kothao o jabo na
