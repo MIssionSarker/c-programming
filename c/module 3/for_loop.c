@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main ()
 {
-    int i;
+    int i,n;
+    scanf("")
     for(i=1;i<=3;i=i+1){
         printf("Hello\n");
     }
