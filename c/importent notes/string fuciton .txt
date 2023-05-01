@@ -1,0 +1,15 @@
+strlen(): Returns the length of a string.
+strcpy(): Copies one string to another.
+strncpy(): Copies a portion of one string to another.
+strcat(): Concatenates (joins) two strings together.
+strncat(): Concatenates a portion of one string to another.
+strcmp(): Compares two strings and returns an integer indicating their relationship.
+strncmp(): Compares a portion of two strings and returns an integer indicating their relationship.
+strchr(): Returns a pointer to the first occurrence of a character in a string.
+strrchr(): Returns a pointer to the last occurrence of a character in a string.
+strstr(): Returns a pointer to the first occurrence of a substring in a string.
+strtok(): Breaks a string into a sequence of tokens.
+sprintf(): Writes formatted data to a string.
+sscanf(): Reads formatted data from a string.
+strdup(): Creates a duplicate of a string.
+strtok_r(): Reentrant version of strtok().
