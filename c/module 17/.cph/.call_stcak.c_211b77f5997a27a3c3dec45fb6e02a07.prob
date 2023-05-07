@@ -1,0 +1,1 @@
+{"name":"Local: call_stcak","url":"c:\\Users\\ACT\\Desktop\\batch 3\\c\\module 17\\call_stcak.c","tests":[{"id":1683435220346,"input":"","output":"Main start\nHello start\nworld start\nworld end\nHello end\nMain end\nend"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACT\\Desktop\\batch 3\\c\\module 17\\call_stcak.c","group":"local","local":true}
