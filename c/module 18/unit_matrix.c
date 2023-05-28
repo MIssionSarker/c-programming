@@ -27,7 +27,7 @@ int main()
                 }
             }
 
-            else if(a[i][j]){
+            else if(a[i][j] != 0){
                 flag=0;
             }
         }

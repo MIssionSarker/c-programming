@@ -1,0 +1,1 @@
+{"name":"Local: sort","url":"c:\\Users\\ACT\\Desktop\\batch 3\\c++\\module 3\\sort.cpp","tests":[{"id":1685021463765,"input":"5\n20 10 30 70 60","output":"10 20 30 60 70"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACT\\Desktop\\batch 3\\c++\\module 3\\sort.cpp","group":"local","local":true}

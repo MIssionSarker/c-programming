@@ -1,0 +1,1 @@
+{"name":"Local: swap_it","url":"c:\\Users\\ACT\\Desktop\\batch 3\\c\\problems\\module 15\\swap_it.c","tests":[{"id":1683214659745,"input":"10 20","output":"20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACT\\Desktop\\batch 3\\c\\problems\\module 15\\swap_it.c","group":"local","local":true}
